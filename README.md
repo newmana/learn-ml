@@ -15,7 +15,7 @@ The steps are:
 
 OSX ARM64 (M series CPUs):
 ```
-$ conda env create --name gfilearning-ml --file=environment-macos-arm.yml -y
+$ conda env create --name gfiglearning-ml --file=environment-macos-arm.yml -y
 ```
 
 OSX x86 (Intel CPUs):
