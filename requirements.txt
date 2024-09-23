@@ -1,0 +1,2 @@
+louvain>=0.8
+tensorflow>=2.16
